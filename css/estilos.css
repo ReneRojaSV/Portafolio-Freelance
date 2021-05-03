@@ -410,7 +410,7 @@ footer{
   }
   
   .horizontal-snap > a {
-    scroll-snap-align: start;
+    scroll-snap-align: stop;
   }
   
   .horizontal-snap img {
